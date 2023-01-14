@@ -8,5 +8,10 @@ public class Samim {
 		System.out.println("this is second change we made by this");
 
 	}
-
+	
+	public void test() {
+		
+	  System.out.println("this is from remote reop");
+		
+	}
 }
