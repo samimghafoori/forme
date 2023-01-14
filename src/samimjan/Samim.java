@@ -15,7 +15,7 @@ public class Samim {
 		
 	}
 	
-	public void test() {
+	public void testone() {
 		System.out.println("second time from remote repo");
 		
 	}		
