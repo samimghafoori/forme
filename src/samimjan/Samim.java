@@ -14,4 +14,9 @@ public class Samim {
 	  System.out.println("this is from remote reop");
 		
 	}
+	
+	public void test() {
+		System.out.println("second time from remote repo");
+		
+	}		
 }
